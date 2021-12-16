@@ -7,7 +7,7 @@ Ce qui est dans le Launcher:
 Customisation du titre et des setting pour rendre le Launcher fonctionnel facilement
 éditeur du Launcher intégrer dedans (pour l'instant la configuration ce fait dans \Launcher\Config\LeFichierQueVousVoulezModifier.txt)
 
-Prochaine mise a jour (2.V): configuration dans le Launcher directement et guider avec des instructions pour chaque.
+Prochaine mise a jour (2.V): configuration dans le Launcher directement, guider avec des instructions pour chaque et fix de l'erreur de sécuriter.
 
 <img src="https://cdn.discordapp.com/attachments/438665376474333184/920476247832789012/Capture1.PNG" height="200"><img src="https://cdn.discordapp.com/attachments/438665376474333184/920476248566808596/Capture2.PNG" height="200"><img src="https://cdn.discordapp.com/attachments/438665376474333184/920476249019789332/gif.gif" height="200">
  
