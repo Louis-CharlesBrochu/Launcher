@@ -1,6 +1,6 @@
 # Launcher
 <a href="https://github.com/Louis-CharlesGamejolt/Launcher/raw/main/Launcher1.V.zip" data-icon="octicon-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">>>Télécharger<<</a><br>
-Launcher Indiquant les mise à jour et permettant de lancer le jeu, totalement configurable et ayant le but d'être facile a utiliser pour les utilisateurs comme les créateur!
+Launcher Indiquant les mise à jour et permettant de lancer le jeu, totalement configurable et ayant le but d'être facile a utiliser pour les utilisateurs comme les créateur! <br>
 Libre d'utilisation pour tout le monde et gratuit!
 
 Ce qui est dans le Launcher:
